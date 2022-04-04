@@ -196,8 +196,8 @@
 				<tr>
 					<form:form action="/product-search11" method="post"
 						modelAttribute="productModel">
-						<th class="cthh1">Select Category:</th>
-						<td class="cthhd1"><form:select path="proCategory">
+						<th>Select Category:</th>
+						<td class="tabsel"><form:select path="proCategory">
 								<form:option value="" label="Select" />
 								<form:option value="Electronics" label="Electronics" />
 								<form:option value="Clothing" label="Clothing" />
@@ -223,8 +223,8 @@
 				<tr>
 					<form:form action="/product-search22" method="post"
 						modelAttribute="productModel">
-						<th class="cthh1">Select Type:</th>
-						<td class="cthhd1"><form:select path="proType">
+						<th>Select Type:</th>
+						<td class="tabsel"><form:select path="proType">
 								<form:option value="" label="Select" />
 								<form:option value="Mobile" label="Mobile" />
 								<form:option value="Laptop" label="Laptop" />
@@ -248,8 +248,8 @@
 				<tr>
 					<form:form action="/product-search22" method="post"
 						modelAttribute="productModel">
-						<th class="cthh1">Select Type:</th>
-						<td class="cthhd1"><form:select path="proType">
+						<th>Select Type:</th>
+						<td class="tabsel"><form:select path="proType">
 								<form:option value="" label="Select" />
 								<form:option value="Mens" label="Mens" />
 								<form:option value="Ladies" label="Ladies" />
@@ -274,8 +274,8 @@
 				<tr>
 					<form:form action="/product-search22" method="post"
 						modelAttribute="productModel">
-						<th class="cthh1">Select Type:</th>
-						<td class="cthhd1"><form:select path="proType">
+						<th>Select Type:</th>
+						<td class="tabsel"><form:select path="proType">
 								<form:option value="" label="Select" />
 								<form:option value="Fruits" label="Fruits" />
 								<form:option value="Vegetables" label="Vegetables" />

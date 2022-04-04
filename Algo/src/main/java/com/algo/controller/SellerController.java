@@ -81,7 +81,7 @@ public class SellerController {
 	}
 
 	@RequestMapping(value = "/seller-logout")
-	public String cleanerLogout() {
+	public String sellerLogout() {
 		return "redirect:/seller-login";
 	}
 
