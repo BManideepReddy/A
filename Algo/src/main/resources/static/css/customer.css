@@ -1,0 +1,73 @@
+.SellerLoginTable {
+	padding-top: 200px;
+	width: 55%;
+	text-align: center;
+	border: 2px solid;
+	table-layout: auto;
+}
+.header {
+	display: flex;
+	background: linear-gradient(to top right, #ccff66 0%, #0099cc 100%);
+	color: red;
+	height: 120%;
+}
+body {
+	background-size: 100% 100%;
+	background-size: cover;
+	font-family: san-serif;
+}
+.main {
+	width:25%;
+	text-align: center;
+}
+.logout {
+	padding:25px;
+	text-align: center;
+	width:25%;
+	font-weight: bold;
+}
+.btn {
+	text-decoration:none;
+}
+.viewproduct {
+	padding-top:25px;
+	width: 25%;
+	display: flex-grow;
+	text-align: center;
+	font-weight: bold;
+}
+.productsearch {
+	padding-top:25px;
+	width: 25%;
+	display: flex-grow;
+	font-weight: bold;
+	text-align: center;
+}
+.tabaddpro {
+	padding: 5px;
+}
+.alltable1{
+	width: auto;
+	border: 3px solid;
+	border-collapse: collapse;
+}
+.t51 {
+	border:2px solid;
+}
+.td51{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	border: 2px solid;
+	text-align: center;
+}
+.input-group-text{
+	text-align: center;
+}
+.tabsel {
+	text-align: center;
+}
+.prosearchtab {
+	padding-top:20px;
+}

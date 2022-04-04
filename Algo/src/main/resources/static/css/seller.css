@@ -1,0 +1,82 @@
+.SellerLoginTable {
+	padding-top: 200px;
+	width: 55%;
+	text-align: center;
+	border: 2px solid;
+	table-layout: auto;
+}
+.header {
+	display: flex;
+	background: linear-gradient(to top right, #ccff66 0%, #0099cc 100%);
+	color: red;
+	height: 120%;
+}
+body {
+	background-size: 100% 100%;
+	background-size: cover;
+	font-family: san-serif;
+}
+.main {
+	width:20%;
+}
+.logout {
+	padding:25px;
+	text-align: center;
+	width:20%;
+	font-weight: bold;
+	text-decoration: none;
+}
+.addproduct {
+	padding-top:25px;
+	display: flex-grow;
+	width: 20%;
+	text-align: center;
+	font-weight: bold;
+}
+.viewmyproduct {
+	padding-top:25px;
+	width: 20%;
+	display: flex-grow;
+	font-weight: bold;	
+	text-decoration: none;
+	
+}
+.viewproduct {
+	padding-top:25px;
+	width: 20%;
+	display: flex-grow;
+	font-weight: bold;
+	text-decoration: none;
+}
+.productsearch {
+	padding-top:25px;
+	width: 20%;
+	display: flex-grow;
+	font-weight: bold;
+	text-decoration: none;
+}
+.btnprimary{
+	text-decoration: none;
+}
+.tabaddpro {
+	padding: 5px;
+}
+.alltable1{
+	width: auto;
+	border: 3px solid;
+	border-collapse: collapse;
+}
+.t51 {
+	border:2px solid;
+}
+.td51{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	border: 2px solid;
+	text-align: center;
+}
+.input-group-text{
+	text-align: center;
+}
